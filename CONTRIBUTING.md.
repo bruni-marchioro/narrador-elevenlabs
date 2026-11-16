@@ -1,0 +1,46 @@
+# Como contribuir com o Narrador ElevenLabs
+
+Obrigado pelo interesse em contribuir com o Narrador ElevenLabs!
+
+Este é um projeto em Python voltado à geração de narrações em áudio utilizando a API da ElevenLabs.
+
+Contribuições são bem-vindas, incluindo correções de erros, melhorias no código, documentação, acessibilidade e novas funcionalidades.
+
+## Como contribuir
+
+1. Faça um **fork** deste repositório para sua conta do GitHub.
+2. Crie uma branch para sua alteração, com um nome descritivo.
+3. Realize as modificações e teste seu funcionamento.
+4. Registre suas alterações em commits com mensagens claras, preferencialmente em português.
+5. Abra um **Pull Request** para a branch `main` deste repositório.
+6. Descreva o que foi alterado e como a mudança foi testada.
+
+## Boas práticas
+
+- Preserve a organização e a legibilidade do código.
+- Evite adicionar dependências desnecessárias.
+- Atualize a documentação quando modificar funcionalidades.
+- Nunca compartilhe chaves de API, tokens, senhas ou outros dados sensíveis.
+- Não inclua arquivos de áudio gerados ou informações pessoais nos commits.
+- Considere a acessibilidade e a facilidade de utilização nas melhorias propostas.
+
+## Relatando problemas
+
+Se encontrar um erro, abra uma **Issue** no GitHub, informando:
+
+- O comportamento observado.
+- O comportamento esperado.
+- Os passos necessários para reproduzir o problema.
+- Mensagens de erro relevantes, sem informações sensíveis.
+
+## Revisão das contribuições
+
+Todas as contribuições serão analisadas pela responsável pelo projeto.
+
+A abertura de um Pull Request não garante que a alteração será incorporada. Poderão ser solicitados ajustes antes da aprovação.
+
+A branch `main` é protegida, e a decisão de incorporar alterações ao repositório oficial cabe à responsável pelo projeto.
+
+## Licença
+
+Ao contribuir, você concorda que suas contribuições sejam disponibilizadas sob a licença MIT adotada pelo projeto.
